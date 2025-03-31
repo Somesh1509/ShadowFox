@@ -61,7 +61,7 @@ The model's performance is evaluated using:
 - **R-squared Score (R²)**
 
 
-#Car Selling Price Prediction & Analysis 🚗💰
+# Car Selling Price Prediction & Analysis 🚗💰
 
 Welcome to the Car Selling Price Prediction & Analysis project! This machine learning model is designed to predict the selling price of used cars based on various features like age, mileage, fuel type, transmission, and more. This project builds upon my previous experience with the Boston House Price Prediction, applying similar regression techniques but adapting them for automobile pricing.
 
